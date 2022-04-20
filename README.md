@@ -1,6 +1,6 @@
 # #Interactive Dashboard Web-App
 
-![dashboard-2](https://user-images.githubusercontent.com/82269825/160226713-d38d9dbd-652b-466d-952c-fff284afe67f.png)
+https://github.com/avikendre034/Webapp-Development/blob/27ed66e36efbec202bd789c0fb3767c38b0acc84/dashboard-1.png
 
-dashboard-2.png
+
 
