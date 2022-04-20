@@ -1,9 +1,8 @@
 # #Interactive Dashboard Web-App
+<img width="957" alt="dashboard-new" src="https://user-images.githubusercontent.com/82269825/164226394-bf69d998-baa9-4abd-91b7-918aef4b3c99.png">
 
-<img width="960" alt="dashboard" src="https://user-images.githubusercontent.com/82269825/164225507-c3daa6d4-6083-46da-b309-38c47673ade6.png">
+<img width="957" alt="dashboard-2" src="https://user-images.githubusercontent.com/82269825/164226417-6e0dfe11-5985-41cb-9f97-218fa3ddc6be.png">
 
-
-![dashboard-2](https://user-images.githubusercontent.com/82269825/164225701-0216a426-f2bd-4ed5-ae09-9d780ecdf3d7.png)
 
 
 
