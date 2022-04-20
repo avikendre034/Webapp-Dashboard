@@ -1,6 +1,7 @@
 # #Interactive Dashboard Web-App
 
-https://github.com/avikendre034/Webapp-Development/blob/27ed66e36efbec202bd789c0fb3767c38b0acc84/dashboard-1.png
+<img width="960" alt="dashboard" src="https://user-images.githubusercontent.com/82269825/164225507-c3daa6d4-6083-46da-b309-38c47673ade6.png">
+
 
 
 
